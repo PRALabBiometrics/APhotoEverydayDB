@@ -16,6 +16,6 @@ The dataset has two versions:
 The url of the youtube videos used for the acquisition of the dataset are indicated in this link.
 
 To obtain the dataset with the images of the faces extracted and labeled, follow the instructions below.
-1. Download license agreement
+1. [Download license agreement](https://github.com/PRALabBiometrics/APhotoEverydayDB/blob/main/release_agreement_APE.pdf)
 2. Compile and send us (livdet.diee@unica.it) the License Agreements signed by the Requestor of the data and by a legal representative of you institution.
 The document must be certified by the stamp of your company or institution or by an electronic signature.
