@@ -20,7 +20,7 @@ To obtain the dataset with the images of the faces extracted and labeled, follow
 2. Compile and send us (livdet.diee@unica.it) the License Agreements signed by the Requestor of the data and by a legal representative of you institution.
 The document must be certified by the stamp of your company or institution or by an electronic signature.
 
-##REFERENCES
+## REFERENCES
 G. Orrù, G. L. Marcialis and F. Roli, "An experimental investigation on self adaptive facial recognition algorithms using a long time span data set," 2018 Eighth International Conference on Image Processing Theory, Tools and Applications (IPTA), Xi'an, 2018, pp. 1-6, doi: 10.1109/IPTA.2018.8608134.
 
 G. Orrù, M. Micheletto, J. Fierrez and G. L. Marcialis “Are Adaptive Face Recognition Systems still Necessary? Experiments on the APE Dataset” 2020 Fourth IEEE International Conference on Image Processing, Applications and Systems (IPAS), Genova, 2020, in press. Arxiv: https://arxiv.org/pdf/2010.04072.pdf
